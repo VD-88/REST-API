@@ -24,7 +24,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install -r dofd-05-python-VD-88-main/requirements.txt
+        pip install -r dofd-05-python-VD-88-main/dofd-05-python-VD-88-main/requirements.txt
         
     - name: Test with pytest
       run: |
